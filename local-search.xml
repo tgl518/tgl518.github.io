@@ -4,19 +4,26 @@
   
   
   <entry>
-    <title>Web练习</title>
-    <link href="/2022/10/12/web%E9%A1%B5%E9%9D%A2%E5%90%88%E9%9B%86/"/>
-    <url>/2022/10/12/web%E9%A1%B5%E9%9D%A2%E5%90%88%E9%9B%86/</url>
+    <title>WebPage2</title>
+    <link href="/2024/11/01/WebPage2/"/>
+    <url>/2024/11/01/WebPage2/</url>
     
-    <content type="html"><![CDATA[<ul><li>First<br>test<br>More info: <a href="https://tgl518.github.io/html-web1/">浸春芜</a><br><img src="/web%E9%A1%B5%E9%9D%A2%E5%90%88%E9%9B%86/%E6%B5%B8%E6%98%A5%E8%8A%9C.jpg" alt="黍黍"></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="WebPage1"><a href="#WebPage1" class="headerlink" title="WebPage1"></a>WebPage1</h1><p>这是我的第二篇博客，里面存放的是我web课程第三次作业的链接</p><h2 id="动漫推荐"><a href="#动漫推荐" class="headerlink" title="动漫推荐"></a>动漫推荐</h2><p><a href="https://tgl518.github.io/html-web3/">动漫推荐</a></p>]]></content>
     
     
     
-    <tags>
-      
-      <tag>浸春芜</tag>
-      
-    </tags>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>WebPage1</title>
+    <link href="/2024/11/01/WebPage1/"/>
+    <url>/2024/11/01/WebPage1/</url>
+    
+    <content type="html"><![CDATA[<h1 id="WebPage1"><a href="#WebPage1" class="headerlink" title="WebPage1"></a>WebPage1</h1><p>这是我的第一篇博客，里面存放的是我web课程第一次作业的链接</p><h2 id="浸春芜"><a href="#浸春芜" class="headerlink" title="浸春芜"></a>浸春芜</h2><p><a href="https://tgl518.github.io/html-web1/">浸春芜</a></p>]]></content>
+    
+    
     
   </entry>
   
